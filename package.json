@@ -1,6 +1,6 @@
 {
   "name": "arp-currency-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -14,9 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/arpit697/arp-currency-converter.git"
   },
-  "keywords": [
-    "arp-currency-converter , arp , currency-converter , currency , converter"
-  ],
+  "keywords": ["currency", "converter", "exchange rates", "finance", "money" , "currency converter" , "arp-currency-converter"],
   "author": "Arpit Dwivedi",
   "license": "Apache-2.0",
   "bugs": {
