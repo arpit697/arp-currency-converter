@@ -6,3 +6,24 @@
 
 # arp-currency-converter
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/arpit_dwivedi)
+
+## Installation
+
+### npm
+```shell
+npm i arp-currency-converter
+```
+
+## Import
+
+```js
+import {convertCurrency} from '@arp/currency-converter'
+```
+
+## Usage
+
+```js
+convertCurrency('USD' , 'INR' , 5).then((res) =>{
+    console.log(res , 'response')
+})
+```
