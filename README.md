@@ -2,5 +2,5 @@
 An npm package to convert currency.
 
 <p align="center">
-  <img width="150px" src="https://raw.githubusercontent.com/kolkov/angular-editor/master/docs/angular-editor-logo.png?raw=true" alt="AngularEditor logo"/>
+  <img width="150px" src="https://static.vecteezy.com/system/resources/previews/013/399/321/non_2x/currency-exchange-illustration-in-minimal-style-png.png" alt="currency converter"/>
 </p>
