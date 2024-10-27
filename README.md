@@ -17,7 +17,7 @@ npm i arp-currency-converter
 ## Import
 
 ```js
-import {convertCurrency} from '@arp/currency-converter'
+import {convertCurrency} from 'arp-currency-converter'
 ```
 
 ## Usage
